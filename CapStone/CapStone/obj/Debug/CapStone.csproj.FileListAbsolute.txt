@@ -1,0 +1,35 @@
+C:\Users\burton43\Desktop\CapStone\CapStone\bin\Debug\CapStone.exe.config
+C:\Users\burton43\Desktop\CapStone\CapStone\bin\Debug\CapStone.exe
+C:\Users\burton43\Desktop\CapStone\CapStone\bin\Debug\CapStone.pdb
+C:\Users\burton43\Desktop\CapStone\CapStone\obj\Debug\CapStone.csprojResolveAssemblyReference.cache
+C:\Users\burton43\Desktop\CapStone\CapStone\obj\Debug\CapStone.csproj.CoreCompileInputs.cache
+C:\Users\burton43\Desktop\CapStone\CapStone\obj\Debug\CapStone.exe
+C:\Users\burton43\Desktop\CapStone\CapStone\obj\Debug\CapStone.pdb
+C:\Users\burton43\Desktop\CapStone\CapStone\CapStone\bin\Debug\CapStone.exe.config
+C:\Users\burton43\Desktop\CapStone\CapStone\CapStone\bin\Debug\CapStone.exe
+C:\Users\burton43\Desktop\CapStone\CapStone\CapStone\bin\Debug\CapStone.pdb
+C:\Users\burton43\Desktop\CapStone\CapStone\CapStone\obj\Debug\CapStone.csprojResolveAssemblyReference.cache
+C:\Users\burton43\Desktop\CapStone\CapStone\CapStone\obj\Debug\CapStone.csproj.CoreCompileInputs.cache
+C:\Users\burton43\Desktop\CapStone\CapStone\CapStone\obj\Debug\CapStone.exe
+C:\Users\burton43\Desktop\CapStone\CapStone\CapStone\obj\Debug\CapStone.pdb
+C:\Users\burton43\Desktop\CapStone\CapStone\CapStone\CapStone\bin\Debug\CapStone.exe.config
+C:\Users\burton43\Desktop\CapStone\CapStone\CapStone\CapStone\bin\Debug\CapStone.exe
+C:\Users\burton43\Desktop\CapStone\CapStone\CapStone\CapStone\bin\Debug\CapStone.pdb
+C:\Users\burton43\Desktop\CapStone\CapStone\CapStone\CapStone\obj\Debug\CapStone.csprojResolveAssemblyReference.cache
+C:\Users\burton43\Desktop\CapStone\CapStone\CapStone\CapStone\obj\Debug\CapStone.csproj.CoreCompileInputs.cache
+C:\Users\burton43\Desktop\CapStone\CapStone\CapStone\CapStone\obj\Debug\CapStone.exe
+C:\Users\burton43\Desktop\CapStone\CapStone\CapStone\CapStone\obj\Debug\CapStone.pdb
+C:\Users\Production\Documents\CIt 110\capstone\CapStone\CapStone\CapStone\CapStone\bin\Debug\CapStone.exe.config
+C:\Users\Production\Documents\CIt 110\capstone\CapStone\CapStone\CapStone\CapStone\bin\Debug\CapStone.exe
+C:\Users\Production\Documents\CIt 110\capstone\CapStone\CapStone\CapStone\CapStone\bin\Debug\CapStone.pdb
+C:\Users\Production\Documents\CIt 110\capstone\CapStone\CapStone\CapStone\CapStone\obj\Debug\CapStone.csprojAssemblyReference.cache
+C:\Users\Production\Documents\CIt 110\capstone\CapStone\CapStone\CapStone\CapStone\obj\Debug\CapStone.csproj.CoreCompileInputs.cache
+C:\Users\Production\Documents\CIt 110\capstone\CapStone\CapStone\CapStone\CapStone\obj\Debug\CapStone.exe
+C:\Users\Production\Documents\CIt 110\capstone\CapStone\CapStone\CapStone\CapStone\obj\Debug\CapStone.pdb
+C:\Users\Production\Downloads\CapStone\CapStone\bin\Debug\CapStone.exe.config
+C:\Users\Production\Downloads\CapStone\CapStone\bin\Debug\CapStone.exe
+C:\Users\Production\Downloads\CapStone\CapStone\bin\Debug\CapStone.pdb
+C:\Users\Production\Downloads\CapStone\CapStone\obj\Debug\CapStone.csprojAssemblyReference.cache
+C:\Users\Production\Downloads\CapStone\CapStone\obj\Debug\CapStone.csproj.CoreCompileInputs.cache
+C:\Users\Production\Downloads\CapStone\CapStone\obj\Debug\CapStone.exe
+C:\Users\Production\Downloads\CapStone\CapStone\obj\Debug\CapStone.pdb
